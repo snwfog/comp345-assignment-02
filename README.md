@@ -1,7 +1,7 @@
 # COMP345 ASSIGNMENT 02 #
 > This assignment builds on the foundation of the first assignment in which the map editor is created to allow the user to build custom map. The difference between this assignment and assignment one is that this time, the map editor is build around the observer design pattern that we learn in class.
 
-__This work is also available on [GitHub](https://github.com/snwfog/comp345-assignment-02)__
+__This work is also available on [GitHub](https://github.com/snwfog/comp345-assignment-02).__
 
 ### Contains ###
 - main.cpp
