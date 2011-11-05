@@ -1,10 +1,21 @@
 # COMP345 ASSIGNMENT 02 #
 > This assignment builds on the foundation of the first assignment in which the map editor is created to allow the user to build custom map. The difference between this assignment and assignment one is that this time, the map editor is build around the observer design pattern that we learn in class.
 
+__This work is also available on [GitHub](https://github.com/snwfog/comp345-assignment-02)__
+
 ### Contains ###
 - main.cpp
 - GameMap.h + GameMap.cpp
 - GameMapEditor.h + GameMapEditor.cpp
+
+### Requirement ###
+- ncurses 5.9 library installed
+
+### How To Run It ###
+> To compile it using g++ compiler, type in:
+	g++ GameMap.cpp GameMapEditor.cpp main.cpp -o main
+> To run it, type in:
+	./main
 
 ### How Is It Implemented ###
 > I left a few comments in the source code to clarify the methods that were implemented for this assignment. _GameMap_ is the subject. _GameMapEditor_ is the observer.
